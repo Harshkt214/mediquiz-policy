@@ -1,4 +1,4 @@
-# Terms and Use for Mediquiz
+# Terms of Use for Mediquiz
 ## Introduction
 
 Mediquiz is an online platform providing study materials for NEET examination to students. These Terms of Use ("Terms") govern your use of our application ("App") and services ("Services").
