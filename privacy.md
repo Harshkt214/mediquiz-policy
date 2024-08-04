@@ -1,7 +1,7 @@
 
 # Privacy Policy for Mediquiz
 
-Welcome to **Mediquiz**, an application that provides study materials for the NEET examination. We take user privacy seriously and are committed to safeguarding your personal information. This privacy policy outlines how we collect, use, and protect your data.
+Welcome to **Mediquiz**, an application that provides study materials for the competitive examination. We take user privacy seriously and are committed to safeguarding your personal information. This privacy policy outlines how we collect, use, and protect your data.
 
 ## Information We Collect
 
